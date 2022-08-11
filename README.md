@@ -17,5 +17,6 @@ speculative ritual #3
 
 dunk hw:
 - [ ]  watch everything everywhere all at once
+
 sam hw:
 - [ ]  watch the game
